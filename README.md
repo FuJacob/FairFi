@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://fujacob.vercel.app/"><img src="https://github.com/FuJacob/melodyVe/blob/main/m.png?raw=true" alt="MelodyVe" width="200"></a>
+  <a href="https://fujacob.vercel.app/"><img src="https://github.com/FuJacob/FairFi/blob/master/title.png?raw=true" alt="MelodyVe" width="1000"></a>
   <br>
   FairFi
   <br>
@@ -15,8 +15,8 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/FuJacob/melodyVe/refs/heads/main/melodyvecover.png)
-
+![screenshot](https://github.com/FuJacob/FairFi/blob/master/cover.png?raw=true)
+![screenshot](https://github.com/FuJacob/FairFi/blob/master/dash.png?raw=true)
 ## Try FairFi now on <a href="https://melodyve.onrender.com/" target="_blank"> https://melodyve.onrender.com/</a>
 
 > **Note:**
