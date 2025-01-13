@@ -17,7 +17,7 @@
 
 ![screenshot](https://github.com/FuJacob/FairFi/blob/master/cover.png?raw=true)
 ![screenshot](https://github.com/FuJacob/FairFi/blob/master/dash.png?raw=true)
-## Try FairFi now on <a href="https://melodyve.onrender.com/" target="_blank"> https://melodyve.onrender.com/</a>
+## Can't try it yet.... Try FairFi now on <a href="x" target="_blank"> https://NOT-OUT-YET.onrender.com/</a>
 
 > **Note:**
 > FairFi may be slow or laggy due to being hosted on Render's free plan.
